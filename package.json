@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "expo/AppEntry.js",
  "scripts": {
-  "build": "expo export --public-url /",
+  "build": "expo export",
   "start": "expo start",
   "android": "expo run:android",
   "ios": "expo run:ios"
